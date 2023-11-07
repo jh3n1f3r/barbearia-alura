@@ -6,6 +6,8 @@ body {
     width: 100%;
 }
 
+.principal
+background
 
 h1 {
    color: darkmagenta;
@@ -26,3 +28,9 @@ p {
 em strong {
     color: #FF0000;
 }
+
+.itens{
+    font-style:italic
+} 
+.beneficios{
+    background-color: #FFFFFF
